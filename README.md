@@ -11,7 +11,7 @@ import sys
 ```
 
 ## How To Play
-To run the script, type ```python3 wordle.py``` in the command line. The terminal output will display instructions on how to play, as shown below:
+To run the script, download the wordle.py file and type ```python3 wordle.py``` in the command line. The terminal output will display instructions on how to play, as shown below:
 ```
 Command Line Wordle
 This game is similar to Wordle, in which you guess a randomly 
