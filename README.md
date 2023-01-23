@@ -1,8 +1,8 @@
-# CS10 Final Project: Wordle (With Custom Word Lengths)
+# Wordle with Custom Word Lengths
 By Serah Park
 
 ## Description
-I wanted to create a game similar to Wordle, a popular game in which players try to guess a random word (updated daily) in a limited number of guesses. Once a player has made guesses, the Wordle display indicates guessed letters that are in the correct location, in the word but in the incorrect location, and not in the word. However, Wordle only uses five-letter words, so I wanted to make my own version of Wordle in which the player can choose their desired word length.
+I wanted to create a game similar to Wordle, a popular game in which players try to guess a random word (updated daily) in a limited number of guesses. Once a player has made guesses, the Wordle display indicates guessed letters that are in the correct location, in the word but in the incorrect location, and not in the word. However, Wordle only uses five-letter words, so I wanted to make my own version of Wordle in which the player can choose their desired word length. I used the Random Words API from RapidAPI, which can be found [here](https://rapidapi.com/sheharyar566/api/random-words5)
 
 ## Dependencies
 ```
